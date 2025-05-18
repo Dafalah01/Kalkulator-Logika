@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 from itertools import product
 
-# Fungsi logika
 def logika_or(a, b): return a or b
 def logika_and(a, b): return a and b
 def logika_not(a): return not a
